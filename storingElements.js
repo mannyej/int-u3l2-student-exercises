@@ -14,7 +14,7 @@ let painting3 = document.querySelector(".painting-3");
 let painting4 = document.querySelector(".painting-4");
 // 5. Create a variable called `title` that stores the title tag with using querySelector.
 // title as in the header? 
-let title = document.querySelector("h1")
+let title = document.querySelector("title")
 
 
 
